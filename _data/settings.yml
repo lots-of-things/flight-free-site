@@ -2,7 +2,7 @@
 # Site Settings
 title: Flight Free USA
 description: Menca personal blogging theme for Jekyll
-logo: /images/FLIGHTFREEUSA_black.jpg # You can add own logo. For example '/images/logo.png'.
+logo: /images/FLIGHTFREEUSA_black.jpg 
 logo_dark: /images/FLIGHTFREEUSA_white.webp
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -42,7 +42,7 @@ mailchimp:
 #-------------------------------
 # Author Settings
 author:
-  # author_name: Flight Free USA
+  author_name: Ariella Grannett
   author_bio: 'Together, we can reduce emissions, change the norm and lay the foundations for strong climate policy.'
   author_avatar: '/images/FLIGHTFREEUSA_black.jpg'
 
