@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Joe Ciofalo, Arizona
-description: 2024: Seems a no-brainer to me. Until planes can fly with zero emissions, I’m grounded!2023: Climate, hassles, stress - these are the main reasons I’m...
+description: 2024 - Seems a no-brainer to me. Until planes can fly with zero emissions, I’m grounded! 2023 - Climate, hassles, stress - these are the main reasons I’m...
 date:   2023-12-30 00:00:00 +0300
 image:  '/images/IMG_8437_Original.jpg'
 tags:   ['zero-emissions', 'sentient-animals', 'please-join', 'moral-circle', 'major-source', 'main-reasons', 'fairly-self', 'animals-either']

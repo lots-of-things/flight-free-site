@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Heather MacLeod, California
-description: 2024: I'm taking this one year at a time! Last year was my first flight-free year. At the beginning of 2023 I took monthly trips from Oakland to San D...
+description: 2024 - I'm taking this one year at a time! Last year was my first flight-free year. At the beginning of 2023 I took monthly trips from Oakland to San D...
 date:   2024-04-05 00:00:00 +0300
 image:  '/images/Heather_Marco_train-photo.jpg'
 tags:   ['spending-money', 'electric-car', 'free-year', 'first-flight', 'last-year', 'last-year', 'last-summer', 'san-diego']

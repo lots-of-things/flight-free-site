@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Peggy Printz, Washington
-description: Letter to the Editor, Seattle Times, Monday, December 18,Instead of “fixing" flying as the author of “Why Flying Is Miserable: And How to Fix It” desc...
+description: Letter to the Editor, Seattle Times, Monday, December 18,Instead of “fixing" flying as the author of “Why Flying Is Miserable - And How to Fix It” desc...
 date:   2023-12-19 00:00:00 +0300
 image:  '/images/Printz.jpeg'
 tags:   ['describes', 'uncomfortable-flight', 'travel', 'stay-home', 'seattle-times', 'person-meetings', 'order-tacos', 'new-england']

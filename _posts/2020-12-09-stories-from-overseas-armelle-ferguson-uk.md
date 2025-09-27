@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stories From Overseas: Armelle Ferguson, UK
+title:  Stories From Overseas - Armelle Ferguson, UK
 description: I like to think that my sustainability story started in a very dull and conventional way. It began on my plate, to then become part of my wardrobe, an...
 date:   2020-12-09 00:00:00 +0300
 image:  '/images/Armelle-pledge-scaled-e1603928782312-265x300.jpeg'
