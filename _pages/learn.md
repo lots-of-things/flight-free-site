@@ -11,8 +11,6 @@ Air travel plays a significant role in the climate crisis. From greenwashing to 
 
 ## FLIGHT FACTS & RESOURCES
 
-### Unordered list example:
-
 * **Why is air travel such a problem?**  
   Explore FAQs on aviation and climate justice:  
   [https://stay-grounded.org/information-on-aviation/](https://stay-grounded.org/information-on-aviation/)
