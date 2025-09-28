@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     menuOpenIcon = document.querySelector(".icon__menu"),
     menuCloseIcon = document.querySelector(".nav__icon-close"),
     menuList = document.querySelector(".main-nav"),
-    searchOpenIcon = document.querySelector(".icon__search"),
+    // searchOpenIcon = document.querySelector(".icon__search"),
     searchCloseIcon = document.querySelector(".search__close"),
     searchInput = document.querySelector(".search__text"),
     search = document.querySelector(".search"),
@@ -33,9 +33,9 @@ document.addEventListener("DOMContentLoaded", function() {
     menuList.classList.remove("is-open");
   }
 
-  searchOpenIcon.addEventListener("click", () => {
-    searchOpen();
-  });
+  // searchOpenIcon.addEventListener("click", () => {
+  //   searchOpen();
+  // });
 
   searchCloseIcon.addEventListener("click", () => {
     searchClose();
@@ -82,13 +82,13 @@ document.addEventListener("DOMContentLoaded", function() {
   // =====================
   // Simple Jekyll Search
   // =====================
-  SimpleJekyllSearch({
-    searchInput: document.getElementById("js-search-input"),
-    resultsContainer: document.getElementById("js-results-container"),
-    json: "/search.json",
-    searchResultTemplate: '{article}',
-    noResultsText: '<h3 class="no-results">No results found</h3>'
-  });
+  // SimpleJekyllSearch({
+  //   searchInput: document.getElementById("js-search-input"),
+  //   resultsContainer: document.getElementById("js-results-container"),
+  //   // json: "/search.json",
+  //   searchResultTemplate: '{article}',
+  //   noResultsText: '<h3 class="no-results">No results found</h3>'
+  // });
 
 
   /* =======================
