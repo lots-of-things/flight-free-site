@@ -11,7 +11,9 @@ permalink: /learn/
 - The Guardian, 19 September 2023 [**Revealed: top carbon offset projects may not cut planet-heating emissions**](https://www.theguardian.com/environment/2023/sep/19/revealed-top-carbon-offset-projects-may-not-cut-planet-heating-emissions) Majority of offset projects that have sold the most carbon credits are ‘likely junk’, according to analysis by Corporate Accountability and *The Guardian*.
 
 - [**Airport Tracker – Interactive Emissions Map**](https://airporttracker.org) This interactive map shows pollution from airports around the world. It features carbon dioxide emissions from aircraft departing the 1,300 largest global airports.
-- Passenger flight emissions map: https://flightemissionmap.org/
+  
+- Passenger flight emissions map: (https://flightemissionmap.org/)
+  
 - This flight calculator focuses on the inequity and privilege of flying compared to how many millions of people around the world burn less than each passenger!
 http://engaging-data.com/airplane-emissions/
 ***
