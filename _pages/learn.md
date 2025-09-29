@@ -12,8 +12,8 @@ permalink: /learn/
 
 - [**Airport Tracker – Interactive Emissions Map**](https://airporttracker.org) This interactive map shows pollution from airports around the world. It features carbon dioxide emissions from aircraft departing the 1,300 largest global airports.
   
-- Passenger flight emissions map: (https://flightemissionmap.org/)
+- [**Passenger flight emissions map**](https://flightemissionmap.org/) Find your flight emissions quickly and easily!
   
-- This flight calculator focuses on the inequity and privilege of flying compared to how many millions of people around the world burn less than each passenger!
-http://engaging-data.com/airplane-emissions/
+- [**Greenhouse gas emissions from airplane flights**](http://engaging-data.com/airplane-emissions/) This flight calculator focuses on the inequity and privilege of flying compared to how many millions of people around the world burn less than each passenger!
+
 ***
