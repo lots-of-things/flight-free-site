@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Victor Poland, Missouri
-description: Why are you flight free?Flying contributes to global warming and the continued climate crisis. This pledge was a great next step for me to go flightle...
+description: Why are you flight free? Flying contributes to global warming and the continued climate crisis. This pledge was a great next step for me to go flightle...
 date:   2022-12-03 00:00:00 +0300
 image:  '/images/victor-poland-missouri.jpeg'
 tags:   ['missouri']
