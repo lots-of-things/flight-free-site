@@ -8,7 +8,7 @@ permalink: /learn/
 
 - Want to know why air travel is such a problem? Check out the answers to frequently asked questions about aviation and climate justice: [**Stay Grounded – Information on Aviation**](https://stay-grounded.org/information-on-aviation/)
 
-- The Guardian, 19 September 2023 [**Revealed: top carbon offset projects may not cut planet-heating emissions**](https://www.theguardian.com/environment/2023/sep/19/revealed-top-carbon-offset-projects-may-not-cut-planet-heating-emissions) Majority of offset projects that have sold the most carbon credits are ‘likely junk’, according to analysis by Corporate Accountability and *The Guardian*.
+- The Guardian, 19 September 2023 [**Revealed: top carbon offset projects may not cut planet-heating emissions**] (https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases) Majority of offset projects that have sold the most carbon credits are ‘likely junk’, according to analysis by Corporate Accountability and *The Guardian*.
 
 - [**Airport Tracker – Interactive Emissions Map**](https://airporttracker.org) This interactive map shows pollution from airports around the world. It features carbon dioxide emissions from aircraft departing the 1,300 largest global airports.
   
