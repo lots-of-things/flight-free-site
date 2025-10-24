@@ -17,6 +17,8 @@ menu_settings:
       url: "/learn/"
     - title: "Alternatives"
       url: "/alternatives/"
+    - title: "Calculator"
+      url: "/calculator/"
     - title: "Press"
       url: "/press/"
     - title: "Pledge to Fly Less"
