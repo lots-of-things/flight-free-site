@@ -297,10 +297,3 @@ permalink: /calculator/
   >
 </div>
 
-- [**Airport Tracker – Interactive Emissions Map**](https://airporttracker.org) This interactive map shows pollution from airports around the world. It features carbon dioxide emissions from aircraft departing the 1,300 largest global airports.
-  
-- [**Passenger flight emissions map**](https://flightemissionmap.org/) Find your flight emissions quickly and easily!
-  
-- [**Flight Emissions Calculator**](/calculator/) Calculate the environmental impact of your flight and compare it to other climate actions. This flight calculator helps you understand the emissions from your trips and put them in context!
-
-
